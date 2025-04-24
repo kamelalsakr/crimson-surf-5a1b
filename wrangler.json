@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "crimson-surf-5a1b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "59816b6d-0a11-43fe-8d4a-778bd4d0a209",
+      "database_name": "super-recipe-39d2-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
